@@ -307,6 +307,7 @@ img {
 
 .about__subtitle {
   margin-bottom: var(--mb-2);
+  padding: 10px;
 }
 
 .about__img {
@@ -578,6 +579,9 @@ img {
   .contact__container {
     justify-items: center;
   }
+}
+.about__text{
+  padding: 10px;
 }
 
 @media screen and (min-width: 1024px) {
